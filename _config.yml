@@ -21,9 +21,7 @@
 title: Robust Computer Vision
 email: s.wang-2@utwente.nl
 description: >- # this means to ignore newlines until "baseurl:"
-   This is the benchmark framework used in the survey paper
-   The Robustness of Computer Vision Models against Common Corruptions: a Survey.
-    It evaluates the corruption robustness of ImageNet-trained classifiers.
+   A benchmark suite to evaluate corruption robustness
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
