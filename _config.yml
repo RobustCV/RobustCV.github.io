@@ -30,6 +30,8 @@ github_username:  ShunxinWang
 theme: minima
 plugins:
   - jekyll-feed # add this line to the plugins list if you already have one
+
+include:
   - .sass
   - .layouts
 # Exclude from processing.
