@@ -10,7 +10,7 @@ layout: home
 ![benchmarkresults](figures/backbone_robustness.png)
 
 
-| w |   |   |   |   |
+| Backbone | Standard Accuracy  | Robust Accuracy  |  mCE | rCE  |
 |---|---|---|---|---|
 |   | w |   |   |   |
 |   |   |   | w |   |
